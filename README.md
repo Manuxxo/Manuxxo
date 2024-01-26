@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋</h1>
-###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">I'm Manu from Argentina, but currently living in Seville.<br><br>- 📚 I'm Junior Dev<br><br>- ⚡ Recently finished my studies in web<br><br>-  🔭 Passionate of Android</p>
 
 <h3 align="left">🛠 Language and tools</h3>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
