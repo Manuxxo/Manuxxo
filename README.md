@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋</h1>
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-###
+
 <p align="left">I'm Manu from Argentina, but currently living in Seville.<br><br>- 📚 I'm Junior Dev<br><br>- ⚡ Recently finished my studies in web<br><br>-  🔭 Passionate of Android</p>
-###
+
 <h3 align="left">🛠 Language and tools</h3>
 ###
 
